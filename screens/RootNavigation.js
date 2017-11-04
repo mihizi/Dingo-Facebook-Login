@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { StackNavigator, DrawerNavigator } from 'react-navigation';
 
 import AboutScreen from './AboutScreen';

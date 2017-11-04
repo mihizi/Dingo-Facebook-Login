@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import {
   Image,
   Platform,
@@ -10,6 +10,7 @@ import {
   Dimensions,
   Button
 } from 'react-native';
+
 
 export default class FriendsListScreen extends React.Component {
   static navigationOptions = {
