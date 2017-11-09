@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   View,
   Dimensions,
-  Button
+  Button,
 } from 'react-native';
 
 export default class FacebookLoginScreen extends React.Component {
